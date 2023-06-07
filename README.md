@@ -28,8 +28,8 @@ Usuário: Jadson T.#5998
 ---
 [![](https://visitcount.itsvg.in/api?id=TSjadness&icon=5&color=2)](https://visitcount.itsvg.in)
 
-<div>
+<!--
   ![Snake animation](https://github.com/TSjadness/TSjadness/blob/output/github-contribution-grid-snake.svg)
-</div>
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
